@@ -13,11 +13,11 @@
 #
 ---
 include:
-  - board: nice_nano_v2
-    shield: horizon
-  - board: nice_nano_v2
-    shield: morizon
+#  - board: nice_nano_v2
+#    shield: horizon
+#  - board: nice_nano_v2
+#   shield: morizon
   - board: seeeduino_xiao_ble
     shield: fract
-  - board: nice_nano_v2
-    shield: tackle
+#  - board: nice_nano_v2
+#    shield: tackle
